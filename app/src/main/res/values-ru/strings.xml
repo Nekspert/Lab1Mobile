@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab1Mobile</string>
+
+    <string name="profile_name">Тимур Березин</string>
+    <string name="profile_title">Б23-191-3</string>
+
+    <string name="phone_label">Телефон</string>
+    <string name="phone_number">+7 (912) 467 53 50</string>
+    <string name="telegram_label">Телеграм</string>
+    <string name="telegram_handle">@optimur</string>
+    <string name="email_label">Почта</string>
+    <string name="email_address">bereza748077@gmail.com</string>
+
+    <string name="logo_cd">Логотип приложения</string>
+    <string name="phone_cd">Иконка телефона</string>
+    <string name="share_cd">Иконка поделиться</string>
+    <string name="email_cd">Иконка почты</string>
+</resources>
